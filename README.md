@@ -1,16 +1,8 @@
-# wallpaper
+# wallpaper app with Pexels ApI 
 
-A new Flutter project.
+Check out this amazing HD Wallpaper Setter and Downloader app in Flutter. I user Pexels api to fetch all the wallpapers. install it and give your feedback.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![OnBoarding Screens (1)](https://github.com/JunaidJameel/Wallpaper-app-with-Pexels-API/assets/109211380/5548c24d-7b29-464d-9dc3-1ad48758e13e)
